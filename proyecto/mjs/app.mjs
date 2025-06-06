@@ -10,3 +10,4 @@ import funciones from './funcionesPorDefecto.mjs';
 
 console.log(funciones.multiplicar(5,2));
 console.log(funciones.dividir(10,2));
+//----------------------------------------------------//
