@@ -9,9 +9,9 @@
 
 
 //-------------------Por Defecto---------------------//
-const calculadora = require('./funcionesPorDefecto.cjs');
+// const cosito = require('./funcionesPorDefecto.cjs');
 
-console.log(calculadora.multiplicar(5,2));
+// console.log(cosito.multiplicar(5,2));
 
-console.log(calculadora.dividir(8,2));
+// console.log(cosito.dividir(8,2));
 //----------------------------------------------------//
